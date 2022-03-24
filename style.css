@@ -119,3 +119,33 @@ body {
     float: right;
     margin-left: 10px;
 }
+
+#joke {
+    width: 50%;
+    border: 2px 2px 4px 2px;
+    border-color: silver;
+    border-style: solid;
+    border-bottom-color: crimson;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+th {
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    text-align: left;
+}
+
+td {
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+}
